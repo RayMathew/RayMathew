@@ -31,4 +31,4 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymathew&show_icons=true&locale=en&layout=compact" alt="raymathew" /></p>
 
-[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RayMathew)
+<a href="[http://example.com/](https://stackoverflow.com/users/4887159/ray)" target="_blank">[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://stackoverflow.com/users/4887159/ray)</a>
