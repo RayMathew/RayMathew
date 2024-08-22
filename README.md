@@ -33,9 +33,13 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymathew&show_icons=true&locale=en&layout=compact" alt="raymathew" /></p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymathew&show_icons=true&locale=en&layout=compact" alt="raymathew" style="margin-right: 30px"/>
 
-<a href="[http://example.com/](https://stackoverflow.com/users/4887159/ray)" target="_blank">[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://stackoverflow.com/users/4887159/ray)</a>
+
+<a align="left" href="[http://example.com/](https://stackoverflow.com/users/4887159/ray)" target="_blank">[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://stackoverflow.com/users/4887159/ray)</a>
+
+(In the top 10% of global, all-time SO contributors)
+</p>
 
 <h4 align="left">Enjoyed Something I Built?</h4>
 <p><a href="https://www.buymeacoffee.com/raymathew" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raymathew" /></a></p><br><br>
