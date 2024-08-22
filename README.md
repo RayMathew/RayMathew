@@ -14,13 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ray-mathew7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ray-mathew7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4887159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4887159" height="30" width="40" /></a>
-<a href="https://dev.to/raymathewdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raymathewdeveloper" height="30" width="40" /></a>
-<a href="https://medium.com/@raymathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raymathew" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Ray-Mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/RayMathew/RayMathew/main/quora-icon.svg" alt="@raymathew" height="30" width="40" /></a>
-<a href="https://instagram.com/ray10mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ray10mathew" height="30" width="40" /></a>
-<a href="https://www.goodreads.com/user/show/60271412-ray-mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/RayMathew/RayMathew/main/Goodreads_logo.svg" alt="@raymathew" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ray-mathew7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ray-mathew7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4887159" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4887159" height="30" width="40" /></a>
+<a href="https://dev.to/raymathewdeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raymathewdeveloper" height="30" width="40" /></a>
+<a href="https://medium.com/@raymathew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raymathew" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Ray-Mathew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RayMathew/RayMathew/main/quora-icon.svg" alt="@raymathew" height="30" width="40" /></a>
+<a href="https://instagram.com/ray10mathew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ray10mathew" height="30" width="40" /></a>
+<a href="https://www.goodreads.com/user/show/60271412-ray-mathew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RayMathew/RayMathew/main/Goodreads_logo.svg" alt="@raymathew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
