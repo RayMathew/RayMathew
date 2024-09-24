@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Ray Mathew</h1>
 <h3 align="left">Full-stack dev (JS and a dab of other languages), with experience in technical leadership and product delivery.</h3>
 
-- I’m currently looking for a new role where I can have a significant influence on the product I would be working on. I'm flexible on the language / frameworks / tools as needed.
+- I’m currently looking for a new role where I can have a significant influence on the product I would be working on. My strongest skills are React and React Native, but I'm flexible on the language / frameworks / tools as needed.
 
 - Technical experience: web apps, websites, backend aggregration layers, microsites, automation scripts, internal company tools, data porting.
 
