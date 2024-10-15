@@ -3,9 +3,9 @@
 
 - I’m currently looking for a new role where I can have a significant influence on the product I would be working on. My strongest skills are React and React Native, but I'm flexible on the language / frameworks / tools as needed.
 
-- Technical experience: web apps, websites, backend aggregration layers, microsites, automation scripts, internal company tools, data porting.
+- Technical experience: web apps, websites, microsites, APIs, API aggregration layers, automation scripts, internal company tools, data porting.
 
-- Functional exprience: loan management, stakeholder management, leadership, mentoring, UX design, public speaking.
+- Functional exprience: loan management, stakeholder management, leadership, mentorship, UX design, public speaking.
 
 - Hobbies: hiking, calisthenics, gaming, psychology.
 
