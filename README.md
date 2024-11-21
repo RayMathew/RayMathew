@@ -36,7 +36,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymathew&show_icons=true&locale=en&layout=compact" alt="raymathew" style="margin-right: 30px"/>
 
 
-<a align="left" href="[http://example.com/](https://stackoverflow.com/users/4887159/ray)" target="_blank">[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://stackoverflow.com/users/4887159/ray)</a>
+<a align="left" href="https://stackoverflow.com/users/4887159/ray" target="_blank">[![RayMathew's Stack Overflow | Stats](https://stats.quira.sh/RayMathew/stack-overflow?theme=dark)](https://stackoverflow.com/users/4887159/ray)</a>
 
 (In the top 10% of global, all-time SO contributors)
 </p>
