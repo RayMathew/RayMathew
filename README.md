@@ -45,5 +45,8 @@
 (In the top 10% of global, all-time SO contributors)
 </p>
 
-<h4 align="left">Enjoyed Something I Built?</h4>
+<h4 align="left">Need Guidance?</h4>
+<a href="https://www.codementor.io/@raymathew?refer=badge"><img src="https://www.codementor.io/m-badges/raymathew/find-me-on-cm-b.svg" alt="Codementor badge"></a>
+
+<h4 align="left">Just Want to Say Thanks?</h4>
 <p><a href="https://www.buymeacoffee.com/raymathew" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raymathew" /></a></p><br><br>
